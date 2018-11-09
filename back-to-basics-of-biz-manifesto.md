@@ -1,6 +1,6 @@
 "Back to Basics of Biz" Manifesto
 =================================
-V. 1.0.0
+V. 1.0.2
 
 Updated: 20181109
 
@@ -29,4 +29,4 @@ Updated: 20181109
 
 11. Le performance globali di aziende e mercati, basate sul lavoro umano, sono sempre eccellenti ed é tutto ciò di cui possiamo fidarci. Questa verità dipende esclusivamente dagli attori sociali.
 
-12. Il complesso sistema di aziende, mercati, e lavoro costituisce un grandioso patrimonio dell’Umanità, agile, elegante e di libero accesso per ogni persona, nessuno escluso.
+12. Il complesso sistema di aziende, mercati, e lavoro costituisce un grandioso patrimonio dell’Umanità, agile, elegante e di libero accesso per ogni persona, nessuno escluso. Un patrimonio di tutti, da proteggere, promuovere e sviluppare.
