@@ -9,7 +9,7 @@ Updated: 20181208
 
 1. Markets are everywhere.
 
-2. Market dynamics are mental dynamics, they are totally under responsibility of social actors.
+2. Market dynamics are mental dynamics. They are totally under responsibility of social actors.
 
 3. Through the markets, human's aims and intentions participate in structuring both natural and social environment.
 
