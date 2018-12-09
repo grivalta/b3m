@@ -1,6 +1,6 @@
 "Back to Basics of Biz" Manifesto
 =================================
-V. 1.0.2
+V. 1.0.2 [draft]
 
 Updated: 20181208
 
