@@ -29,4 +29,4 @@ Updated: 20181109
 
 11. Le performance globali di aziende e mercati, basate sul lavoro umano, sono sempre eccellenti ed é tutto ciò di cui possiamo fidarci. Questa verità dipende esclusivamente dagli attori sociali.
 
-12. Il complesso sistema formato da aziende, mercati e lavoro è una grandiosa risorsa per l'umanità. È aperto, agile, elegante e gratuito per ogni persona, nessuno escluso. Un patrimonio di tutti, da proteggere, promuovere, sviluppare e condividere.
+12. Il complesso sistema formato da aziende, mercati e lavoro è una grandiosa risorsa per l'umanità. È aperto, agile, elegante e di libero accesso per ogni persona, nessuno escluso. Un patrimonio di tutti, da proteggere, promuovere, sviluppare e condividere.
