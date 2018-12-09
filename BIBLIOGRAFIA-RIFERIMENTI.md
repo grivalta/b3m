@@ -1,8 +1,8 @@
 [random list]
 
 * ...
-* The Cluetrain Manifesto [http://www.cluetrain.com/]
-* The Agile Manifesto [https://agilemanifesto.org/]
+* _The Cluetrain Manifesto_ [http://www.cluetrain.com/]
+* _The Agile Manifesto_ [https://agilemanifesto.org/]
 * ...
 * Documentazione interna sul framework PMLS (PMLSfwk - Project Management Life Style framework).
 * ...
