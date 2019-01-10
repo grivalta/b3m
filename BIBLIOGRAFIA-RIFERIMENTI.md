@@ -9,5 +9,5 @@
 * Gian Luca Rivalta, _L’incubo del sogno economico. Dubbi profondi, luminose speranze e oscuri presagi nel fantastico mondo di Excelandia_, IlMioLibro, 2013 [https://ilmiolibro.kataweb.it/libro/narrativa/86071/lincubo-del-sogno-economico/]
 * Gian Luca Rivalta, _Azienda irridens_, DeArt, 2004 [https://www.ibs.it/azienda-irridens/mp/9788890124242]
 * ...
-* Post su _Postmanagement (Postmodern Management) e _[r]evolutionary Æconomics ([https://www.bloom.it/?q=rivalta]; ...]
+* Post su _Postmanagement_ (Postmodern Management) e _[r]evolutionary Æconomics_ [https://www.bloom.it/?q=rivalta; ...]
 ...
