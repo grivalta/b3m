@@ -29,4 +29,4 @@ Updated: 20181208
 
 11. The global performance of companies and markets, which are based on human work, is always excellent and it's all we can trust. This truth depends exclusively on social actors.
 
-12. The complex system formed by companies, markets, and work is a great asset for Humanity. It's open, agile, elegant and free access for every person, no one excluded. A heritage of all, to be protected, promoted, developed and shared.
+12. The complex system formed by companies, markets, and work is a great asset for Humanity. It's open, agile, elegant, smart and free access for every person, no one excluded. A heritage of all, to be protected, promoted, developed and shared.
