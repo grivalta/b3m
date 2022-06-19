@@ -14,6 +14,11 @@
 * Post su _Postmanagement_ (Postmodern Management) e _[r]evolutionary Æconomics_ [https://www.bloom.it/?q=rivalta; ...]
 - Luciano gallino, diretto da-, _Manuale di sociologia_, UTET
 - Giuseppe Airoldi, Giorgio Brunetti, Vittorio Coda, _Economia aziendale_, Il Mulino, 1994
+- T. Peters e R. Waterman Jr, _In Search of Excellence_, 1982, trad. it. _Alla ricerca dell'eccellenza_, Sperling & Kupfer, 1993
+- Oliver E. Williamson, _Markets and Hierarchies, Analysis and Antitrust Implications_, Free Press, New York, 1975
+- Peter M. Senge, _La quinta disciplina_, Sperling & Kupfer, 1992
+- D. Quinn Mills, _La rinascita dell’impresa. Come lavorare con successo nelle organizzazioni del futuro_, FrancoAngeli, 1993
+- Michael Hammer, James Champy, _Reengineering the Corporation: A Manifesto for Business Revolution_, HarperBusiness, 1993 
 - _The Cluetrain Manifesto_ [http://www.cluetrain.com/]
 - _The Agile Manifesto_ [https://agilemanifesto.org/]
 -	Edward T. Hall, _Il linguaggio silenzioso_, Garzanti, Milano, 1972
