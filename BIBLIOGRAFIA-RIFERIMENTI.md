@@ -26,7 +26,7 @@
 -	Tom Peters/Nancy Austin, _Una passione per l'eccellenza. La vera leadership_, Sperling & Kupfer, Milano, 1986
 -	Igor Stravinskij: citazione ritrovata alcuni anni fa su un numero della rivista cattolica Tracce, di cui non ricordo gli estremi dell'edizione
 -	H. von Foerster, _Sistemi che osservano_, Astrolabio, Roma, 1987
--	Gialâl-ud-Dîn Rûmi: fondatore della confraternita sûfi dei dervisci mevlevi, sec. XIII d.c.; i brani citati sono tratti dal libro-CD della Red Edizioni, Maurizio Rosenberg Colorni (a cura di-), _Sufi. La danza del cosmo_, Red Edizioni, Como, 1997
+-	Gialâl-ud-Dîn Rûmi, brani citati, in Maurizio Rosenberg Colorni (a cura di-), _Sufi. La danza del cosmo_, Red Edizioni, Como, 1997
 -	Hildegard von Bingen: mistica medievale; i brani citati sono tratti dal libro-CD della Red Edizioni, Maurizio Rosenberg Colorni (a cura di-), _Canti estatici di Hildegard von Bingen_, Red Edizioni, Como, 1996
 -	Terry Winograd/Fernando Flores, _Calcolatori e conoscenza. Un nuovo approccio alla progettazione delle tecnologie dell'informazione_, EST Mondadori, Milano, 1987
 -	Paul Watzlawick, _La realtà della realtà. Comunicazione - Disinformazione - Confusione_, Astrolabio, Roma, 1976
