@@ -4,7 +4,7 @@
 
 [Management-labs](https://github.com/grivalta/Management-labs)
 - [Ripresa testi postmanageriali](https://github.com/grivalta/Management-labs/blob/master/Appunti/Ripresa-testi-postmanageriali.md)
-- [Capisaldi di discussione: il contributo della Sociologia e dell'Economia Aziendale[(https://github.com/grivalta/Management-labs/tree/master/Appunti/Capisaldi%20di%20discussione)
+- [Capisaldi di discussione: il contributo della Sociologia e dell'Economia Aziendale](https://github.com/grivalta/Management-labs/tree/master/Appunti/Capisaldi%20di%20discussione)
 
 ...
 
