@@ -1,15 +1,14 @@
 # B3M - "Back to Basics of Biz" Manifesto
 
-...
+- B3M [in italiano](https://github.com/grivalta/b3m/blob/master/back-to-basics-of-biz-manifesto.md)
+- B3M [in english](https://github.com/grivalta/b3m/blob/master/en_US/back-to-basics-of-biz-manifesto.md)
 
-[Management-labs](https://github.com/grivalta/Management-labs)
-- [Ripresa testi postmanageriali](https://github.com/grivalta/Management-labs/blob/master/Appunti/Ripresa-testi-postmanageriali.md)
-- [Capisaldi di discussione: il contributo della Sociologia e dell'Economia Aziendale](https://github.com/grivalta/Management-labs/tree/master/Appunti/Capisaldi%20di%20discussione)
+- [Management-labs](https://github.com/grivalta/Management-labs):
+  - [Ripresa testi postmanageriali](https://github.com/grivalta/Management-labs/blob/master/Appunti/Ripresa-testi-postmanageriali.md)
+  - [Capisaldi di discussione: il contributo della Sociologia e dell'Economia Aziendale](https://github.com/grivalta/Management-labs/tree/master/Appunti/Capisaldi%20di%20discussione)
 
-...
 
 
 ## Licenza e attribuzione
 Questo lavoro è pubblicato secondo una licenza _Creative Commons Attribution Share Alike 4.0 International_ (CC-BY-SA-4.0): chiunque è libero di utilizzarlo per qualsiasi scopo, commerciale e non commerciale, con l'obbligo di citare l'autore originale e di distribuire le opere derivate con la medesima licenza o una compatibile. Cfr: https://github.com/grivalta/Management-labs/blob/master/LICENSE | http://creativecommons.org/licenses/by-sa/4.0/
 
-...
