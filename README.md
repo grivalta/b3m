@@ -13,8 +13,6 @@
   - [Note sparse](https://github.com/grivalta/Management-labs/blob/master/Appunti/Note-sparse_010.md)
 ...
 
-["B3M - Back to Basics of Biz" Manifesto](https://github.com/grivalta/b3m)
-
 [**Bibliografia**](https://github.com/grivalta/b3m/edit/master/BIBLIOGRAFIA-RIFERIMENTI.md)
 
 
