@@ -2,10 +2,21 @@
 
 - B3M [in italiano](https://github.com/grivalta/b3m/blob/master/back-to-basics-of-biz-manifesto.md)
 - B3M [in english](https://github.com/grivalta/b3m/blob/master/en_US/back-to-basics-of-biz-manifesto.md)
-
+  
 - [Management-labs](https://github.com/grivalta/Management-labs):
-  - [Ripresa testi postmanageriali](https://github.com/grivalta/Management-labs/blob/master/Appunti/Ripresa-testi-postmanageriali.md)
-  - [Capisaldi di discussione: il contributo della Sociologia e dell'Economia Aziendale](https://github.com/grivalta/Management-labs/tree/master/Appunti/Capisaldi%20di%20discussione)
+  - [Appunti](https://github.com/grivalta/Management-labs/tree/master/Appunti): premessa
+  - [Capisaldi di discussione](https://github.com/grivalta/Management-labs/tree/master/Appunti/Capisaldi%20di%20discussione)
+    - [Il contributo della disciplina sociologica](https://github.com/grivalta/Management-labs/blob/master/Appunti/Capisaldi%20di%20discussione/010_il-contributo-della-disciplina-sociologica.md)
+    - [Il contributo della disciplina economico-aziendale](https://github.com/grivalta/Management-labs/blob/master/Appunti/Capisaldi%20di%20discussione/020_il-contributo-della-disciplina-economico-aziendale.md)
+  - [Ripresa appunti postmanageriali (1995 – 2012)](https://github.com/grivalta/Management-labs/blob/master/Appunti/010_Ripresa-testi-postmanageriali.md)
+  - [Le basi del progetto B3M](https://github.com/grivalta/Management-labs/blob/master/Appunti/030_Le_basi_del_b3m_010.md)
+  - [Note sparse](https://github.com/grivalta/Management-labs/blob/master/Appunti/Note-sparse_010.md)
+...
+
+["B3M - Back to Basics of Biz" Manifesto](https://github.com/grivalta/b3m)
+
+[**Bibliografia**](https://github.com/grivalta/b3m/edit/master/BIBLIOGRAFIA-RIFERIMENTI.md)
+
 
 
 
