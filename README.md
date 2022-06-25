@@ -12,6 +12,7 @@
   - Le basi del progetto B3M:
     - [010 - Premesse generali](https://github.com/grivalta/Management-labs/blob/master/Appunti/030_Le_basi_del_b3m_010.md)
     - [020 - Pensieri ispiratori dei 12 punti del B3M](https://github.com/grivalta/Management-labs/blob/master/Appunti/030_Le_basi_del_b3m_020.md)
+    - [023 - Altre riflessioni sulle origini del B3M](https://github.com/grivalta/Management-labs/blob/master/Appunti/030_Le_basi_del_b3m_023.md)
     - [030 - Qualche dettaglio sui 12 punti del B3M](https://github.com/grivalta/Management-labs/blob/master/Appunti/030_Le_basi_del_b3m_030.md)
   - [Note sparse](https://github.com/grivalta/Management-labs/blob/master/Appunti/Note-sparse_010.md)
 ...
