@@ -12,7 +12,7 @@
 * Gian Luca Rivalta, _L’incubo del sogno economico. Dubbi profondi, luminose speranze e oscuri presagi nel fantastico mondo di Excelandia_, IlMioLibro, 2013 [https://ilmiolibro.kataweb.it/libro/narrativa/86071/lincubo-del-sogno-economico/]
 * Gian Luca Rivalta, _Azienda irridens_, DeArt, 2004 [https://www.ibs.it/azienda-irridens/mp/9788890124242]
 * Post su _Postmanagement_ (Postmodern Management) e _[r]evolutionary Æconomics_ [https://www.bloom.it/?q=rivalta; ...]
-- Luciano gallino, diretto da-, _Manuale di sociologia_, UTET
+- Luciano gallino, diretto da-, _Manuale di sociologia_, UTET, 1994
 - Giuseppe Airoldi, Giorgio Brunetti, Vittorio Coda, _Economia aziendale_, Il Mulino, 1994
 - T. Peters e R. Waterman Jr, _In Search of Excellence_, 1982, trad. it. _Alla ricerca dell'eccellenza_, Sperling & Kupfer, 1993
 - Oliver E. Williamson, _Markets and Hierarchies, Analysis and Antitrust Implications_, Free Press, New York, 1975
@@ -23,16 +23,15 @@
 - _The Agile Manifesto_ [https://agilemanifesto.org/]
 -	Edward T. Hall, _Il linguaggio silenzioso_, Garzanti, Milano, 1972
 -	Gianfranco Piantoni, (Introduzione di-), in Richard Norman, _La gestione strategica dei servizi_, ETASLIBRI, Milano, 1985
--	Humberto R. Maturana, (Introduzione di-), in Humberto R. Maturana/Francisco J. Varela, _Autopoiesi e cognizione. La realizzazione del vivente_, Marsilio, Venezia, 1992
+-	Humberto R. Maturana/Francisco J. Varela, _Autopoiesi e cognizione. La realizzazione del vivente_, Marsilio, Venezia, 1992
 -	Blaise Pascal, _Pensieri e altri scritti di e su Pascal_, Edizioni Paoline, 1990
 -	R. Dilts/J. Grinder/R. Bandler/L. C. Bandler/J. DeLozier, _Programmazione Neurolinguistica. Lo studio della struttura dell'esperienza soggettiva_, Astrolabio, Roma, 1982
 -	G. Rebora, _Comportamento d’impresa e controllo sociale_, ETASLIBRI, Milano, 1981
 -	G. Minati, _Sistemica. Etica, virtualità, didattica, economia_, Apogeo, Milano, 1998
 -	Tom Peters/Nancy Austin, _Una passione per l'eccellenza. La vera leadership_, Sperling & Kupfer, Milano, 1986
--	Igor Stravinskij: citazione ritrovata alcuni anni fa su un numero della rivista cattolica Tracce, di cui non ricordo gli estremi dell'edizione
--	H. von Foerster, _Sistemi che osservano_, Astrolabio, Roma, 1987
+-	Heinz von Foerster, _Sistemi che osservano_, Astrolabio, Roma, 1987
 -	Gialâl-ud-Dîn Rûmi, brani citati, in Maurizio Rosenberg Colorni (a cura di-), _Sufi. La danza del cosmo_, Red Edizioni, Como, 1997
--	Hildegard von Bingen: mistica medievale; i brani citati sono tratti dal libro-CD della Red Edizioni, Maurizio Rosenberg Colorni (a cura di-), _Canti estatici di Hildegard von Bingen_, Red Edizioni, Como, 1996
+-	Hildegard von Bingen, brani citati in Maurizio Rosenberg Colorni (a cura di-), _Canti estatici di Hildegard von Bingen_, Red Edizioni, Como, 1996
 -	Terry Winograd/Fernando Flores, _Calcolatori e conoscenza. Un nuovo approccio alla progettazione delle tecnologie dell'informazione_, EST Mondadori, Milano, 1987
 -	Paul Watzlawick, _La realtà della realtà. Comunicazione - Disinformazione - Confusione_, Astrolabio, Roma, 1976
 -	Theodore Levitt, _Pensare il management. 27 riflessioni sul pensiero e l'azione manageriali_, Il Sole 24 Ore Libri, Milano, 1991
