@@ -22,7 +22,7 @@
   - [Note sparse](https://github.com/grivalta/Management-labs/blob/master/Appunti/Note-sparse_010.md)
   
   
-[**Bibliografia**](https://github.com/grivalta/b3m/edit/master/BIBLIOGRAFIA-RIFERIMENTI.md)
+[**Bibliografia**](https://github.com/grivalta/b3m/blob/master/BIBLIOGRAFIA-RIFERIMENTI.md)
 
 
 
