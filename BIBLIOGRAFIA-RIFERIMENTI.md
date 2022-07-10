@@ -1,6 +1,8 @@
 [random list]
 
 # Bibliografia di riferimento per questo repository e per [Management-labs](https://github.com/grivalta/Management-labs)
+Altri riferimenti si trovano in:   - [Fonti di ispirazione: pensieri laterali, interferenze e strani anelli di contaminazione](https://github.com/grivalta/Management-labs/blob/master/Appunti/015%20-%20fonti%20di%20ispirazione.md).
+
 
 * ...
 * Documentazione interna su:
