@@ -9,6 +9,7 @@
 - [Management-labs](https://github.com/grivalta/Management-labs):
   - [Appunti](https://github.com/grivalta/Management-labs/tree/master/Appunti): premessa
   - [Ripresa appunti postmanageriali (1995 – 2012)](https://github.com/grivalta/Management-labs/blob/master/Appunti/010_Ripresa-testi-postmanageriali.md)
+  - [Fonti di ispirazione: pensieri laterali, interferenze e strani anelli di contaminazione](https://github.com/grivalta/Management-labs/blob/master/Appunti/015%20-%20fonti%20di%20ispirazione.md)
   - [Capisaldi di discussione](https://github.com/grivalta/Management-labs/tree/master/Appunti/Capisaldi%20di%20discussione)
     - [Il contributo della disciplina sociologica](https://github.com/grivalta/Management-labs/blob/master/Appunti/Capisaldi%20di%20discussione/010_il-contributo-della-disciplina-sociologica.md)
     - [Il contributo della disciplina economico-aziendale](https://github.com/grivalta/Management-labs/blob/master/Appunti/Capisaldi%20di%20discussione/020_il-contributo-della-disciplina-economico-aziendale.md)
