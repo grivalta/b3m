@@ -7,6 +7,7 @@
 ## Altri contenuti su Management-labs
 
 - [Management-labs](https://github.com/grivalta/Management-labs):
+  - [Mente, linguaggio e realtà nel cambiamento economico](https://github.com/grivalta/Management-labs/blob/master/Appunti/005_mente-linguaggio-realta-cambiamento-economico.md)
   - [Appunti](https://github.com/grivalta/Management-labs/tree/master/Appunti): premessa
   - [Ripresa appunti postmanageriali (1995 – 2012)](https://github.com/grivalta/Management-labs/blob/master/Appunti/010_Ripresa-testi-postmanageriali.md)
   - [Fonti di ispirazione: pensieri laterali, interferenze e strani anelli di contaminazione](https://github.com/grivalta/Management-labs/blob/master/Appunti/015%20-%20fonti%20di%20ispirazione.md)
