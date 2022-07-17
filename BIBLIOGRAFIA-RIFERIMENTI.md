@@ -34,6 +34,7 @@ Altri riferimenti si trovano in:   - [Fonti di ispirazione: pensieri laterali, i
 -	Heinz von Foerster, _Sistemi che osservano_, Astrolabio, Roma, 1987
 -	Gialâl-ud-Dîn Rûmi, brani citati, in Maurizio Rosenberg Colorni (a cura di-), _Sufi. La danza del cosmo_, Red Edizioni, Como, 1997
 -	Hildegard von Bingen, brani citati in Maurizio Rosenberg Colorni (a cura di-), _Canti estatici di Hildegard von Bingen_, Red Edizioni, Como, 1996
+-	Kōnosuke Matsushita, L’uomo e l’impresa. Etica degli affari e responsabilità del management secondo il fondatore della Panasonic, Sperling & Kupfer, 1993
 -	Terry Winograd/Fernando Flores, _Calcolatori e conoscenza. Un nuovo approccio alla progettazione delle tecnologie dell'informazione_, EST Mondadori, Milano, 1987
 -	Paul Watzlawick, _La realtà della realtà. Comunicazione - Disinformazione - Confusione_, Astrolabio, Roma, 1976
 -	Theodore Levitt, _Pensare il management. 27 riflessioni sul pensiero e l'azione manageriali_, Il Sole 24 Ore Libri, Milano, 1991
@@ -43,6 +44,7 @@ Altri riferimenti si trovano in:   - [Fonti di ispirazione: pensieri laterali, i
 -	Bertrand Russell, _Introduzione alla filosofia matematica_, Newton Compton / Club del Libro Fratelli Melita, Roma, 1980
 -	Clock DVA, _Man - Amplified_, Digital/Contempo, 1991
 -	Bradford P. Keeney, _L'estetica del cambiamento_, Astrolabio, Roma, 1985
+-	Niklas Luhmann, Sistemi sociali. Fondamenti di una teoria generale, Il Mulino, Bologna, 1990
 -	Ludwig Wittgenstein, _Tractatus Logico-Philosophicus_, Einaudi, Torino, 1964
 -	Edgar Morin, _Le vie della complessità_, in G. Bocchi/M. Ceruti (a cura di -), _La sfida della complessità_, Feltrinelli, Milano, 1994
 -	Arthur Koestler, _Le radici del caso_, Astrolabio, Roma, 1972
