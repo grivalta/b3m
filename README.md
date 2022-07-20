@@ -14,6 +14,7 @@
   - [Capisaldi di discussione](https://github.com/grivalta/Management-labs/tree/master/Appunti/Capisaldi%20di%20discussione)
     - [Il contributo della disciplina sociologica](https://github.com/grivalta/Management-labs/blob/master/Appunti/Capisaldi%20di%20discussione/010_il-contributo-della-disciplina-sociologica.md)
     - [Il contributo della disciplina economico-aziendale](https://github.com/grivalta/Management-labs/blob/master/Appunti/Capisaldi%20di%20discussione/020_il-contributo-della-disciplina-economico-aziendale.md)
+    - [Il contributo informatico e della Software/System Engineering](https://github.com/grivalta/Management-labs/blob/master/Appunti/Capisaldi%20di%20discussione/030_il-contributo-it-e-della-software-system-engineering.md)
   - Le basi del progetto B3M:
     - [010 - Premesse generali](https://github.com/grivalta/Management-labs/blob/master/Appunti/030_Le_basi_del_b3m_010.md)
     - [020 - Pensieri ispiratori dei 12 punti del B3M](https://github.com/grivalta/Management-labs/blob/master/Appunti/030_Le_basi_del_b3m_020.md)
