@@ -24,7 +24,7 @@ Altri riferimenti si trovano in:   - [Fonti di ispirazione: pensieri laterali, i
 - _The Cluetrain Manifesto_ [http://www.cluetrain.com/]
 - _The Agile Manifesto_ [https://agilemanifesto.org/]
 -	Edward T. Hall, _Il linguaggio silenzioso_, Garzanti, Milano, 1972
--	Gianfranco Piantoni, (Introduzione di-), in Richard Norman, _La gestione strategica dei servizi_, ETASLIBRI, Milano, 1985
+- Richard Norman, _La gestione strategica dei servizi_, ETASLIBRI, Milano, 1985
 -	Humberto R. Maturana/Francisco J. Varela, _Autopoiesi e cognizione. La realizzazione del vivente_, Marsilio, Venezia, 1992
 -	Blaise Pascal, _Pensieri e altri scritti di e su Pascal_, Edizioni Paoline, 1990
 -	R. Dilts/J. Grinder/R. Bandler/L. C. Bandler/J. DeLozier, _Programmazione Neurolinguistica. Lo studio della struttura dell'esperienza soggettiva_, Astrolabio, Roma, 1982
