@@ -8,7 +8,7 @@ Altri riferimenti si trovano in:   - [Fonti di ispirazione: pensieri laterali, i
 * Documentazione interna su:
   *  Postmanagement
   * B3M
-  * NS&BAM/P
+  * NS&BAM/P (Nice Satisfactory & Business Areté Management / Program)
   * PMLS Framework (PMLSfwk - Project Management Life Style framework)
   * [r]evolutionary Æconomics
 * Gian Luca Rivalta, _L’incubo del sogno economico. Dubbi profondi, luminose speranze e oscuri presagi nel fantastico mondo di Excelandia_, IlMioLibro, 2013 [https://ilmiolibro.kataweb.it/libro/narrativa/86071/lincubo-del-sogno-economico/]
