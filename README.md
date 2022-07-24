@@ -22,6 +22,7 @@
     - [023 - Altre riflessioni sulle origini del B3M](https://github.com/grivalta/Management-labs/blob/master/Appunti/030_Le_basi_del_b3m_023.md)
     - [030 - Qualche dettaglio sui 12 punti del B3M](https://github.com/grivalta/Management-labs/blob/master/Appunti/030_Le_basi_del_b3m_030.md)
   - [Modelli, tecniche, paradigmi della FantaZienDa](https://github.com/grivalta/Management-labs/blob/master/Appunti/070_modelli-tecniche-paradigmi_020.md)
+  - Una nuova interpretazione dei fenomeni aziendali e di mercato
   - [Business model & Management tools](https://github.com/grivalta/Management-labs/blob/master/Appunti/100_business-model-management-tools_010.md)
   - [Note sparse](https://github.com/grivalta/Management-labs/blob/master/Appunti/Note-sparse_010.md)
   
