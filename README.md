@@ -7,7 +7,7 @@
 ## Altri contenuti su Management-labs
 
 - [Management-labs](https://github.com/grivalta/Management-labs):
-  - [Appunti](https://github.com/grivalta/Management-labs/tree/master/Appunti): premessa
+  - [Appunti](https://github.com/grivalta/Management-labs/tree/master/Appunti): [premessa](https://github.com/grivalta/Management-labs/blob/master/Appunti/README.md)
   - **Living business:** aziende, mercati e imprese viventi
   - [Mente, linguaggio e realtà nel cambiamento economico](https://github.com/grivalta/Management-labs/blob/master/Appunti/005_mente-linguaggio-realta-cambiamento-economico.md)
   - **Biz awareness:** topologia, ermeneutica e ontologia nel business management 
