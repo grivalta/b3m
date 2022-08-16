@@ -10,7 +10,7 @@
   - [Appunti](https://github.com/grivalta/Management-labs/tree/master/Appunti): [premessa](https://github.com/grivalta/Management-labs/blob/master/Appunti/README.md)
   - **Living business:** aziende, mercati e imprese viventi
   - [Mente, linguaggio e realtà nel cambiamento economico](https://github.com/grivalta/Management-labs/blob/master/Appunti/005_mente-linguaggio-realta-cambiamento-economico.md)
-  - **Biz awareness:** topologia, ermeneutica e ontologia nel business management 
+  - **Biz awareness:** topologia, ermeneutica, ontologia e business management 
   - [Ripresa appunti postmanageriali (1995 – 2012)](https://github.com/grivalta/Management-labs/blob/master/Appunti/010_Ripresa-testi-postmanageriali.md)
   - [Fonti di ispirazione: pensieri laterali, interferenze e strani anelli di contaminazione](https://github.com/grivalta/Management-labs/blob/master/Appunti/015%20-%20fonti%20di%20ispirazione.md)
   - [Capisaldi di discussione](https://github.com/grivalta/Management-labs/tree/master/Appunti/Capisaldi%20di%20discussione)
