@@ -19,7 +19,7 @@
     - [Il contributo informatico e della Software/System Engineering](https://github.com/grivalta/Management-labs/blob/master/Appunti/Capisaldi%20di%20discussione/030_il-contributo-it-e-della-software-system-engineering.md)
   - ["B3M - Back to Basics of Biz" Manifesto](https://github.com/grivalta/b3m) - Le basi del progetto:
     - [010 - Premesse generali](https://github.com/grivalta/Management-labs/blob/master/Appunti/030_Le_basi_del_b3m_010.md)
-    - [020 - Pensieri ispiratori dei 12 punti del B3M](https://github.com/grivalta/Management-labs/blob/master/Appunti/030_Le_basi_del_b3m_020.md)
+    - [020 - Idee di fondo del B3M](https://github.com/grivalta/Management-labs/blob/master/Appunti/030_Le_basi_del_b3m_020.md)
     - [023 - Altre riflessioni sulle origini del B3M](https://github.com/grivalta/Management-labs/blob/master/Appunti/030_Le_basi_del_b3m_023.md)
     - [030 - Qualche dettaglio sui 12 punti del B3M](https://github.com/grivalta/Management-labs/blob/master/Appunti/030_Le_basi_del_b3m_030.md)
   - [Modelli, tecniche, paradigmi della FantaZienDa](https://github.com/grivalta/Management-labs/blob/master/Appunti/070_modelli-tecniche-paradigmi_020.md)
