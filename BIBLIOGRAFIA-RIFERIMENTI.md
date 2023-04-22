@@ -16,6 +16,8 @@ Altri riferimenti si trovano in:   - [Fonti di ispirazione: pensieri laterali, i
 * Post su _Postmanagement_ (Postmodern Management) e _[r]evolutionary Æconomics_ [https://www.bloom.it/?q=rivalta; ...]
 - Luciano gallino, diretto da-, _Manuale di sociologia_, UTET, 1994
 - Giuseppe Airoldi, Giorgio Brunetti, Vittorio Coda, _Economia aziendale_, Il Mulino, 1994
+- Federico Faggin, _Irriducibile. La coscienza, la vita, i computer e la nostra natura_, Mondadori, 2022
+- Federico Faggin, _Silicio. Dall'invenzione del microprocessore alla nuova scienza della consapevolezza_, Mondadori
 - T. Peters e R. Waterman Jr, _In Search of Excellence_, 1982, trad. it. _Alla ricerca dell'eccellenza_, Sperling & Kupfer, 1993
 - Oliver E. Williamson, _Markets and Hierarchies, Analysis and Antitrust Implications_, Free Press, New York, 1975
 - Peter M. Senge, _La quinta disciplina_, Sperling & Kupfer, 1992
