@@ -1,7 +1,3 @@
-https://github.com/b3maker/b3m-book
-
----
-
 # B3M - "Back to Basics of Biz" Manifesto
 
 - B3M [in italiano](https://github.com/grivalta/b3m/blob/master/back-to-basics-of-biz-manifesto.md)
