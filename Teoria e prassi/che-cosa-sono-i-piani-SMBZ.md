@@ -145,35 +145,35 @@ Attività:
 *	Definizione del Budget economico complessivo del piano SMBZ: considerato l’orizzonte temporale e il rischio dell’iniziativa, si tratta dell’elaborazione di un vero e proprio Business Plan per la ‘startup ITMS’ che svolgerà l’iniziativa
 *	Definizione degli obiettivi e dei KPI per la valutazione dei risultati, secondo gli schemi tipici degli OKR; gli indicatori previsti devono essere almeno in linea con il framework prestazionale della BSC (Balanced scorecard)
 *	Definizione del piano e dell’infrastruttura di comunicazione:
-**	Una iniziativa come quella qui esposta richiede una continua e coerente comunicazione ‘company wide’ proattiva da parte del Top Management
-**	Parallelamente, ogni livello gerarchico coinvolto deve fare altrettanto
-**	In definitiva, ogni Stakeholder dell’iniziativa e, in generale, dell’azienda deve poter essere costantemente aggiornato sullo stato del progetto e sui suoi trend in atto, potendo intervenire in ogni discussione sincrona/asincrona avviato su di esso
+  *	Una iniziativa come quella qui esposta richiede una continua e coerente comunicazione ‘company wide’ proattiva da parte del Top Management
+  *	Parallelamente, ogni livello gerarchico coinvolto deve fare altrettanto
+  *	In definitiva, ogni Stakeholder dell’iniziativa e, in generale, dell’azienda deve poter essere costantemente aggiornato sullo stato del progetto e sui suoi trend in atto, potendo intervenire in ogni discussione sincrona/asincrona avviato su di esso
 *	[Milestone] Kick-Off aziendale del programma SMBZ:
-**	Questa milestone costituisce il momento di lancio vero e proprio dell’iniziativa SMBZ aziendale:
-***	Comunicazione della Direzione:
-****	La Direzione provvede ad un evento di comunicazione ad hoc in cui vengono esposti i seguenti punti:
-****	Presupposti di evoluzione contestuale ed aziendale legati al Business Plan (BP), cioè alla Strategia dell’impresa
-****	Descrizione sommaria del piano SMBZ e del cronoprogramma suddiviso per sprint annuali e per quarter
-****	Evidenziazione dell’importanza e delle criticità del piano; in particolare viene mostrato che si tratta di una mission globale di tutta l’Azienda il cui successo dipende da tutti i soggetti coinvolti
-****	Livello di coinvolgimento di tutte le Risorse Umane aziendali e dei partner esterni
-****	Durante l’evento potrebbe essere utile (quando non controproducente) fornire agli intervenuti una cartella descrittiva del progetto, con tanto di grafica integrata e logo basato su gadget specifici
-***	A valle dell’evento di comunicazione, viene lanciata la successiva milestone di ‘avvio cantieri SMBZ’, con evidenziazione dell’importanza strategica e determinante del suo svolgimento e del conseguimento dei suoi obiettivi
-***	In particolare vengono nominati tutti i membri del Team (se necessario coincidenti con i Responsabili di funzione) che potranno farsi coadiuvare dai propri colleghi/collaboratori più stretti
+  * Questa milestone costituisce il momento di lancio vero e proprio dell’iniziativa SMBZ aziendale:
+    *	Comunicazione della Direzione:
+    *	La Direzione provvede ad un evento di comunicazione ad hoc in cui vengono esposti i seguenti punti:
+    *	Presupposti di evoluzione contestuale ed aziendale legati al Business Plan (BP), cioè alla Strategia dell’impresa
+    *	Descrizione sommaria del piano SMBZ e del cronoprogramma suddiviso per sprint annuali e per quarter
+    *	Evidenziazione dell’importanza e delle criticità del piano; in particolare viene mostrato che si tratta di una mission globale di tutta l’Azienda il cui successo dipende da tutti i soggetti coinvolti
+    *	Livello di coinvolgimento di tutte le Risorse Umane aziendali e dei partner esterni
+    *	Durante l’evento potrebbe essere utile (quando non controproducente) fornire agli intervenuti una cartella descrittiva del progetto, con tanto di grafica integrata e logo basato su gadget specifici
+  *	A valle dell’evento di comunicazione, viene lanciata la successiva milestone di ‘avvio cantieri SMBZ’, con evidenziazione dell’importanza strategica e determinante del suo svolgimento e del conseguimento dei suoi obiettivi
+  *	In particolare vengono nominati tutti i membri del Team (se necessario coincidenti con i Responsabili di funzione) che potranno farsi coadiuvare dai propri colleghi/collaboratori più stretti
 *	[milestone] Kick-Off primo gruppo cantieri SMBZ:
-**	A questa milestone è associato l’avvio della prima fase veramente produttiva del progetto, la Fase Uno 
+  *	A questa milestone è associato l’avvio della prima fase veramente produttiva del progetto, la Fase Uno 
 
 ### Fase Uno
 *	Inizialmente questa fase era denominata Fase TOC per alcuni riferimenti metodologici alla Teoria dei vincoli di El. Goldratt
 *	Studio preliminare e organizzazione Team-Cantieri:
-**	Questa task si occupa di impostare, con i team member individuati nella fase precedente, i primi cantieri SMBZ che opereranno nei prossimi 6-12 mesi in programma (le durate dipendono dal tempo lavoro effettivamente messo in campo)
-***	Normalmente, per la realtà italiana delle MPmi, le durate delle attività di fase sono indicate come durate di calendario e non come effettiva quantità di lavoro
-**	Durante lo svolgimento di questa attività si potranno perfezionare alcuni aspetti dell’assesment eseguito in precedenza, scendendo nei dettagli di alcune peculiarità aziendali, dei processi e relative unità organizzative coinvolte
-**	Eventuale ritorno decisionale alla Direzione per specifici problemi o criticità rilevate
+  *	Questa task si occupa di impostare, con i team member individuati nella fase precedente, i primi cantieri SMBZ che opereranno nei prossimi 6-12 mesi in programma (le durate dipendono dal tempo lavoro effettivamente messo in campo)
+    *	Normalmente, per la realtà italiana delle MPmi, le durate delle attività di fase sono indicate come durate di calendario e non come effettiva quantità di lavoro
+  *	Durante lo svolgimento di questa attività si potranno perfezionare alcuni aspetti dell’assesment eseguito in precedenza, scendendo nei dettagli di alcune peculiarità aziendali, dei processi e relative unità organizzative coinvolte
+  *	Eventuale ritorno decisionale alla Direzione per specifici problemi o criticità rilevate
 *	Introduzione e formazione metodologica PMLS/Praxis framework/OKR/Agile
-**	In questa fase si provvede alla necessaria formazione metodologia dell’intero Team di progetto, con particolare riferimento a:
-***	Elementi di Controllo di gestione e di gestione PPPM con aspetti agili
-***	Metodologia OKR
-***	…
+  *	In questa fase si provvede alla necessaria formazione metodologia dell’intero Team di progetto, con particolare riferimento a:
+    *	Elementi di Controllo di gestione e di gestione PPPM con aspetti agili
+    *	Metodologia OKR
+    *	…
 
 
 ---
